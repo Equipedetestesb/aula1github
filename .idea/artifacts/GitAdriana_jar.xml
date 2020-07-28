@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GitAdriana:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GitAdriana_jar</output-path>
+    <root id="archive" name="GitAdriana.jar">
+      <element id="module-output" name="GitAdriana" />
+    </root>
+  </artifact>
+</component>
